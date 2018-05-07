@@ -5,7 +5,7 @@ Nessa semana iremos desenvolver um projeto com clientes reais. Nossa equipe far√
 O projeto tem como objetivo desenvolver as habilidades aprendidas nas primeiras 11 semanas do curso. 
 
 ## Marmitee
-[Sites Using React](https://www.facebook.com/amarmitee/)
+[Facebook](https://www.facebook.com/amarmitee/)
 
 ## Landpage
 ### P√°gina 1 - Home
